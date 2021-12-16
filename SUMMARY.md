@@ -1,7 +1,10 @@
 * [介绍](README.md)
 * [RSA](RSA/README.md)
-    * [1.1 下载跟编译](RSA/下载跟编译.md)
-* [AES](变量与数据类型/README.md)
-    * [1.1 下载跟编译](AES/下载跟编译.md)
+    * [1.1 ubuntu平台下载跟编译](RSA/ubuntu平台下载跟编译.md)
+    * [1.2 mac平台下载跟编译](RSA/mac平台下载跟编译.md)
+* [AES](AES/README.md)
+    * [1.1 ubuntu平台下载跟编译](AES/ubuntu平台下载跟编译.md)
+    * [1.2 mac平台下载跟编译](AES/mac平台下载跟编译.md)
+    * [1.3 mac编译openssl-android版本](AES/mac编译openssl-android版本.md)
 * [结束](end/README.md) 
 
